@@ -14,6 +14,8 @@ I initially entered 50 and it told me to go lower. The correct number was 90.
 It also prompts you to press enter to submit your number but it doesn't work. 
 New Game button does not work when you reach the end of the game. 
 I entered 90 and it told me to go higher, so the logic must be backwards.  
+  (for example: "the hints were backwards").
+
 ---
 
 ## 2. How did you use AI as a teammate?
@@ -45,6 +47,8 @@ The function logic was not correct
 The core mechanism by which the application updates its state and display. 
 - What change did you make that finally gave the game a stable secret number?
 I changed the logic for the function that controlled the secret number. 
+- How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
+
 ---
 
 ## 5. Looking ahead: your developer habits
